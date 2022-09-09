@@ -1,0 +1,3 @@
+"AadClientId": "0b50e6f1-b5b5-44a5-be3c-ceae51f6a041",
+"AadSecret": "UZY8Q~t_piRGbz_sey3dw-zziRLWUHoAsCPNmaRj",
+"AadTenantId": "536279f6-15cc-45f2-be2d-61e352b51eef",
